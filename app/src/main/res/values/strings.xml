@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Boost up</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="options">
+        <item>Clear data</item>
+        <item>Clear cache</item>
+        <item>Force stop</item>
+        <item>Backup and uninstall</item>
+        <item>Uninstall</item>
+    </string-array>
+
+    <string-array name="restoreStr">
+        <item>Restore</item>
+        <item>Share APK</item>
+        <item>Delete Backup</item>
+    </string-array>
+
+    <string-array name="nav_options">
+        <item>Home</item>
+        <item>System cleaner</item>
+        <item>Settings</item>
+        <item>About "Boost up"</item>
+    </string-array>
+
+    <!--<string name="aboutBoost">Welcome to this application management application where everyone can manage there phone's applications with one touch.The special feature of this applications is that everyone can "Force Stop","Clear application data", "Clear cache","Backup application APK" and "Uninstall any downloaded applications".These menues you can access by touching on any application from the list. This application contains several parts:1. Downloaded apps only, 2. System apps only 3. Restore any backuped app. These pars can be accessed by swaping the lists towards left.</string>
+-->
+</resources>
